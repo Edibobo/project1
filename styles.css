@@ -1,21 +1,17 @@
-li{
-display: inline;
+li {
+    display: inline;
 }
-    
 
-body{
+
+body {
     font-family: roboto;
 }
 
-. heaing{
-text-align: center;
-color: blue;
+.heaing {
+    text-align: center;
+    color: blue;
 }
 
 .my paragraph {
-font-style: italic;
+    font-style: italic;
 }
-
-
-
-
